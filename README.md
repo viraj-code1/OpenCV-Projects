@@ -1,2 +1,2 @@
 # OpenCV projects
-Airbrush, Ball Tracking using openCV
+Airbrush, Ball Tracking and Object color detection using openCV
