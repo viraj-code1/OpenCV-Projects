@@ -1,2 +1,2 @@
-# Virtual-Airbrush
-Airbrush using openCV
+# OpenCV projects
+Airbrush, Ball Tracking using openCV
